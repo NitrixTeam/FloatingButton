@@ -2,6 +2,9 @@
 
 Quite attractive, colorful, customizable UI component, known as floating button. Implemeted using SwiftUI.
 
+## Preview
+![](Preview.gif)
+
 ## Getting Started
 
 ### Prerequisites
@@ -57,8 +60,3 @@ var body: some View {
     .onTopButtonPress { print("Top") }
 }
 ```
-
-## Preview
-![](Preview.gif)
-
-
